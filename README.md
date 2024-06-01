@@ -4,7 +4,7 @@ This Python script generates portrait pictures based on various human traits usi
 
 # Features
 
-- Randomly selects traits such as origin, religion, hair length, color, style, character, gender, age, accessories, and occupation.
+- Randomly selects traits such as origin, hair length, color, style, character, gender, age, accessories, and occupation.
 
 - Creates a custom prompt based on the chosen traits to guide the image generation process.
   
