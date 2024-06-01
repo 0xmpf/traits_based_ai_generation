@@ -1,0 +1,87 @@
+{
+    "origin": [
+      { "trait": "Caucasian", "odd": 30 },
+      { "trait": "African", "odd": 15 },
+      { "trait": "Asian", "odd": 20 },
+      { "trait": "Hispanic", "odd": 20 },
+      { "trait": "Native American", "odd": 5 },
+      { "trait": "Pacific Islander", "odd": 5 },
+      { "trait": "Mixed", "odd": 5 }
+    ],
+    "hair": {
+      "length": [
+        { "trait": "Short", "odd": 40 },
+        { "trait": "Medium", "odd": 30 },
+        { "trait": "Long", "odd": 25 },
+        { "trait": "Bald", "odd": 5 }
+      ],
+      "color": [
+        { "trait": "Black", "odd": 30 },
+        { "trait": "Brown", "odd": 25 },
+        { "trait": "Blonde", "odd": 20 },
+        { "trait": "Red", "odd": 10 },
+        { "trait": "Gray", "odd": 5 },
+        { "trait": "White", "odd": 5 },
+        { "trait": "Dyed", "odd": 5 }
+      ],
+      "style": [
+        { "trait": "Straight", "odd": 40 },
+        { "trait": "Wavy", "odd": 30 },
+        { "trait": "Curly", "odd": 15 },
+        { "trait": "Afro", "odd": 5 },
+        { "trait": "Dreadlocks", "odd": 5 },
+        { "trait": "Mohawk", "odd": 3 },
+        { "trait": "Braided", "odd": 2 }
+      ]
+    },
+    "character": [
+      { "trait": "Happy", "odd": 20 },
+      { "trait": "Sad", "odd": 10 },
+      { "trait": "Terrified", "odd": 5 },
+      { "trait": "Angry", "odd": 10 },
+      { "trait": "Surprised", "odd": 10 },
+      { "trait": "Disgusted", "odd": 5 },
+      { "trait": "Neutral", "odd": 20 },
+      { "trait": "Confused", "odd": 10 },
+      { "trait": "Excited", "odd": 5 },
+      { "trait": "Bored", "odd": 5 }
+    ],
+    "gender": [
+      { "trait": "Male", "odd": 48 },
+      { "trait": "Female", "odd": 48 },
+      { "trait": "Non-binary", "odd": 2 },
+      { "trait": "Transgender", "odd": 2 }
+    ],
+    "age": [
+      { "trait": "Baby", "odd": 5 },
+      { "trait": "Child", "odd": 15 },
+      { "trait": "Teenager", "odd": 20 },
+      { "trait": "Young Adult", "odd": 25 },
+      { "trait": "Adult", "odd": 30 },
+      { "trait": "Senior", "odd": 5 }
+    ],
+    "accessories": [
+      { "trait": "Glasses", "odd": 20 },
+      { "trait": "Sunglasses", "odd": 10 },
+      { "trait": "Earrings", "odd": 15 },
+      { "trait": "Necklace", "odd": 15 },
+      { "trait": "Piercings", "odd": 10 },
+      { "trait": "Hat", "odd": 15 },
+      { "trait": "Scarf", "odd": 10 },
+      { "trait": "Tattoo", "odd": 5 }
+    ],
+    "occupation": [
+      { "trait": "Unemployed", "odd": 10 },
+      { "trait": "Student", "odd": 15 },
+      { "trait": "Artist", "odd": 5 },
+      { "trait": "Athlete", "odd": 5 },
+      { "trait": "Businessman", "odd": 15 },
+      { "trait": "Chef", "odd": 5 },
+      { "trait": "Doctor", "odd": 5 },
+      { "trait": "Engineer", "odd": 10 },
+      { "trait": "Farmer", "odd": 5 },
+      { "trait": "Musician", "odd": 5 },
+      { "trait": "Scientist", "odd": 5 },
+      { "trait": "Teacher", "odd": 15 }
+    ]
+  }
